@@ -1,2 +1,4 @@
 # fanza_tumblr_contributor
 悪ふざけの産物
+いろいろな名前が適当
+近日READMEは編集する
